@@ -1,6 +1,8 @@
 # Ethical_Hacking_Scanning_Networks
 
-Module 3, Scanning Networks, contains guides and resources for using tools like Nmap, Wireshark, Unicornscan, and Angry IP Scanner to perform host discovery, port scanning, OS detection, and packet analysis for the CY201 course at GIKI.
+Module 3, Scanning Networks, contains guides and resources for using tools like Nmap, Wireshark, Unicornscan, and Angry IP Scanner to perform host discovery, port scanning, 
+
+OS detection, and packet analysis for the CY201 course at GIKI.
 
 # Repository Structure
 
